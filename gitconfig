@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = colin.mac.stewart1@gmail.com
+	name = Colin Stewart
